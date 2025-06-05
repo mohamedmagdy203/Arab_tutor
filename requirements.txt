@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+torchaudio
+moviepy
+TTS
+deep-translator
+ffmpeg-python
+gtts
